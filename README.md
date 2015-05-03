@@ -3,6 +3,7 @@ This is a application to manage the Book Database using JSF technology. I have m
 
 It Uses following technology.
 
-Front End: HTML, CSS, Javascipt, JSF.
+Front End: HTML5 , CSS3 , Javascipt, JSF Component, Facelet, Primeface.
 Service Layer: JSF Managed Bean
 Back End: JDBC
+Security : AES 256 bit Encryption 
